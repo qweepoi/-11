@@ -1,1 +1,1 @@
-{"لینک":"https://www.namasha.com/v/vKaWJisk/%D8%A7%D9%86%DB%8C%D9%85%D9%87_%D9%81%D9%88%D9%82_%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%87_Hunter_X_Hunter_%D9%82%D8%B3%D9%85%D8%AA1_%D9%81%D8%A7%D8%B1%D8%B3%DB%8C_"}
+{"لینک":"https://aspb25.cdn.asset.aparat.com/aparat-video/b75fad47844d7699ee1a06e0e7ce722c28416167-480p.mp4?wmsAuthSign"}
