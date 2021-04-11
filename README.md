@@ -1,1 +1,6 @@
-[{"لینک":"https://www.uplooder.net/files/077114785041a3cca595b3654a1fc4bc/video-2020-09-07-10-25-12.mp4.html"},{"نام":"تست"},{"توضیح":"تست سرور ارسال فایل"}]
+[
+  {
+    "پخش": "https://www.namasha.com/embed/lG3UyCxa",
+    "زمان": "30"
+  }
+]
