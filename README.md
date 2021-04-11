@@ -1,6 +1,4 @@
-[
-  {
-    "پخش": "https://www.namasha.com/embed/lG3UyCxa",
-    "زمان": "30"
-  }
-]
+{
+  "پخش": "https://www.namasha.com/embed/lG3UyCxa",
+  "زمان": "30"
+}
